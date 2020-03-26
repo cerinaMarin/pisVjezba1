@@ -8,8 +8,10 @@ namespace vjezba1
 {
     class NewClass
     {
+
         static void Main(string[] args)
         {
+            Console.WriteLine("Konflikt");
         }
     }
 }
