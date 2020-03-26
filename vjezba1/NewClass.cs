@@ -12,6 +12,7 @@ namespace vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Konflikt");
+            Console.WriteLine("Ispravak");
         }
     }
 }
